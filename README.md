@@ -1,1 +1,1 @@
-# terraform
+Repository created to practice terraform with different providers by using resources repective to the providers
