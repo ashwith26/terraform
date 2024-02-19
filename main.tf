@@ -10,5 +10,9 @@ resource "aws_instance" "my_instance" {
     tags = {
         Name = "Docker instance"
         Env = "Dev"
-    }
+    }   
+}
+
+resource "aws_s3_bucket" "s3_bucket" {
+  bucket = "my-tf-test-bucket"
 }
