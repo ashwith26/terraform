@@ -1,1 +1,1 @@
-Repository created to practice terraform with different providers by using resources repective to the providers
+Repository to Provision resources such as VPC, Subnets, SecrityGroups and EC2 Instance in AWS.
